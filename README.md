@@ -1,0 +1,1 @@
+# snapshot-test-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 snapshot_test.py\n```\n
